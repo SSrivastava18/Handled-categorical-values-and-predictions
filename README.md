@@ -5,7 +5,6 @@ This project explores predicting car sales price predictions using **Linear Regr
 ## 📌 Project Highlights
 
 - 🧼 Cleaned and preprocessed the dataset
-- 🔣 Encoded categorical variables for model compatibility
 - 📈 Trained a Linear Regression model using scikit-learn
 - 🔍 Made predictions and evaluated performance
 
